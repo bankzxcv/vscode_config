@@ -1,0 +1,39 @@
+{
+    "C_Cpp.clang_format_style": "Google",
+    "window.zoomLevel": 0,
+    "vim.cmdLineInitialColon": true,
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "workbench.colorTheme": "Hopscotch (TextMate Theme)",
+    "vim.handleKeys": {
+        "<C-d>": true
+    },
+    "vim.hlsearch": true,
+    "vim.insertModeKeyBindingsNonRecursive": [],
+    "editor.fontSize": 11,
+    "editor.tabSize": 2,
+    "editor.minimap.enabled": false,
+    "C_Cpp.clang_format_fallbackStyle": "Google",
+    "vim.otherModesKeyBindingsNonRecursive": [
+        {
+            "before": [
+                "<C-u>"
+            ],
+            "after": [
+                "2",
+                "0",
+                "k"
+            ]
+        },
+        {
+            "before": [
+                "<C-d>"
+            ],
+            "after": [
+                "2",
+                "0",
+                "j"
+            ]
+        }
+    ]
+}
